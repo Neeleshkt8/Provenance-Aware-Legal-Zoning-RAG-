@@ -1,0 +1,17 @@
+# NYC Zoning Resolution - Article IV (Manufacturing District Regulations)
+# DEMO CORPUS: plain-language paraphrase for development. Replace with official text from zr.planning.nyc.gov.
+
+There are three basic manufacturing districts: M1, M2, and M3.
+
+M1 districts are light manufacturing districts, often serving as buffers between M2 or M3 districts and adjacent residential or commercial districts.
+M1 districts typically include light industrial uses such as woodworking shops, repair shops, and wholesale service and storage facilities, and many commercial uses are also permitted.
+
+M2 districts occupy the middle ground between light and heavy industrial areas.
+
+M3 districts are designated for heavy industrial uses that generate noise, traffic, or pollutants, such as power plants, solid waste transfer facilities, and fuel supply depots.
+
+Manufacturing uses must meet performance standards that limit noise, vibration, smoke, odor, and other emissions.
+Performance standards are generally stricter in M1 districts than in M3 districts.
+
+New residential uses are generally not permitted in manufacturing districts.
+Mixed Use (MX) districts pair an M1 district with a residence district, such as M1-2/R6, so that residential and light industrial uses can be located side by side or within the same building.

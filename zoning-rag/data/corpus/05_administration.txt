@@ -1,0 +1,17 @@
+# NYC Zoning Resolution - Article VII (Administration) and related Charter procedures
+# DEMO CORPUS: plain-language paraphrase for development. Replace with official text from zr.planning.nyc.gov.
+
+The Board of Standards and Appeals (BSA) may grant a variance from the use or bulk regulations of the Zoning Resolution.
+Under ZR 72-21, the BSA must make five findings before granting a variance.
+The findings include that unique physical conditions of the property create practical difficulties or unnecessary hardship in complying with the zoning, and that the variance would not alter the essential character of the neighborhood.
+The BSA must also find that the hardship was not created by the owner and that the variance is the minimum necessary to afford relief.
+
+A special permit allows a use or bulk modification that is not permitted as-of-right, if the applicable findings set out in the Zoning Resolution are met.
+Special permits are granted either by the City Planning Commission or by the Board of Standards and Appeals, depending on the specific permit.
+
+Amendments to the zoning map, known as rezonings, are subject to the Uniform Land Use Review Procedure (ULURP).
+ULURP is a public review process with mandated time frames, including review by the affected Community Board, the Borough President, the City Planning Commission, and the City Council.
+
+Amendments to the text of the Zoning Resolution are reviewed by the City Planning Commission and the City Council, but are not subject to ULURP.
+
+As-of-right development is development that complies with all applicable zoning regulations and does not require any discretionary approval.

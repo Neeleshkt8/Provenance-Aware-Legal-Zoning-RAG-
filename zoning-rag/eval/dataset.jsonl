@@ -1,0 +1,20 @@
+{"id": "def-far", "question": "What is floor area ratio?", "answerable": true, "gold_sources": ["01_definitions.txt"], "expected_keywords": ["floor area", "lot area"]}
+{"id": "def-far-example", "question": "How much floor area can a 10,000 square foot lot have at FAR 2.0?", "answerable": true, "gold_sources": ["01_definitions.txt"], "expected_keywords": ["20,000"]}
+{"id": "def-zoning-lot", "question": "What is a zoning lot?", "answerable": true, "gold_sources": ["01_definitions.txt"], "expected_keywords": ["block", "single unit"]}
+{"id": "def-noncomplying", "question": "What is a non-complying building?", "answerable": true, "gold_sources": ["01_definitions.txt"], "expected_keywords": ["bulk"]}
+{"id": "def-nonconforming", "question": "What does non-conforming use mean?", "answerable": true, "gold_sources": ["01_definitions.txt"], "expected_keywords": ["use regulations"]}
+{"id": "res-r1r2", "question": "What housing types are allowed in R1 and R2 districts?", "answerable": true, "gold_sources": ["02_residence_districts.txt"], "expected_keywords": ["single-family"]}
+{"id": "res-contextual", "question": "What does the letter A in R6A mean?", "answerable": true, "gold_sources": ["02_residence_districts.txt"], "expected_keywords": ["contextual"]}
+{"id": "res-r10-far", "question": "What is the basic maximum residential FAR in R10 districts?", "answerable": true, "gold_sources": ["02_residence_districts.txt"], "expected_keywords": ["10.0"]}
+{"id": "com-overlay-far", "question": "What is the maximum commercial FAR for a commercial overlay in an R7 district?", "answerable": true, "gold_sources": ["03_commercial_districts.txt"], "expected_keywords": ["2.0"]}
+{"id": "com-c8", "question": "What kinds of uses are C8 districts for?", "answerable": true, "gold_sources": ["03_commercial_districts.txt"], "expected_keywords": ["automotive"]}
+{"id": "mfg-mx", "question": "What is an MX district?", "answerable": true, "gold_sources": ["04_manufacturing_districts.txt"], "expected_keywords": ["M1", "residence"]}
+{"id": "mfg-m3", "question": "What uses are M3 districts designated for?", "answerable": true, "gold_sources": ["04_manufacturing_districts.txt"], "expected_keywords": ["heavy industrial"]}
+{"id": "adm-variance", "question": "How many findings must the BSA make to grant a variance?", "answerable": true, "gold_sources": ["05_administration.txt"], "expected_keywords": ["five"]}
+{"id": "adm-ulurp-text", "question": "Are zoning text amendments subject to ULURP?", "answerable": true, "gold_sources": ["05_administration.txt"], "expected_keywords": ["not subject"]}
+{"id": "adm-ulurp-who", "question": "Who reviews a rezoning under ULURP?", "answerable": true, "gold_sources": ["05_administration.txt"], "expected_keywords": ["Community Board", "City Council"]}
+{"id": "ood-france", "question": "What is the capital of France?", "answerable": false}
+{"id": "ood-chicago", "question": "What are the zoning rules in Chicago for parking?", "answerable": false}
+{"id": "ood-tokyo", "question": "What is the FAR in Tokyo commercial zones?", "answerable": false}
+{"id": "ood-bread", "question": "How do I bake sourdough bread?", "answerable": false}
+{"id": "ood-sports", "question": "Who won the 2024 World Series?", "answerable": false}

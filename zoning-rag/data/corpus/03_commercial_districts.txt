@@ -1,0 +1,18 @@
+# NYC Zoning Resolution - Article III (Commercial District Regulations)
+# DEMO CORPUS: plain-language paraphrase for development. Replace with official text from zr.planning.nyc.gov.
+
+Commercial districts are designated by the letter C followed by a number, from C1 through C8.
+
+C1 and C2 districts are commercial overlay districts, designated C1-1 through C1-5 and C2-1 through C2-5.
+Commercial overlays are mapped within residence districts, usually along avenues or major streets, to serve the local retail needs of the surrounding neighborhood, such as grocery stores, restaurants, and dry cleaners.
+
+When a commercial overlay is mapped in an R1 through R5 district, the maximum commercial floor area ratio is 1.0.
+When a commercial overlay is mapped in an R6 through R10 district, the maximum commercial floor area ratio is 2.0.
+In mixed buildings within overlay districts, commercial uses are generally limited to floors below residential uses.
+
+C4 districts are mapped in regional commercial centers, such as downtown areas outside of Manhattan, that contain specialty and department stores, theaters, and offices.
+C5 and C6 districts are high-bulk commercial districts mapped in central business districts, including Midtown and Lower Manhattan.
+
+C8 districts provide for automotive and heavy commercial services, such as automobile showrooms, repair shops, and warehouses.
+
+The City of Yes for Economic Opportunity amendments adopted in 2024 reorganized the former system of eighteen use groups into a smaller number of broader use groups, to make it easier for businesses to locate in commercial and manufacturing districts.

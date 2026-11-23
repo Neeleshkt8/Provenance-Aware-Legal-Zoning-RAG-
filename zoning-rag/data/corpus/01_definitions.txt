@@ -1,0 +1,25 @@
+# NYC Zoning Resolution - Article I, Chapter 2 (Definitions), ZR 12-10
+# DEMO CORPUS: plain-language paraphrase for development. Replace with official text from zr.planning.nyc.gov.
+
+Floor area is the sum of the gross areas of the several floors of a building or buildings, measured from the exterior faces of exterior walls or from the center lines of walls separating two buildings.
+Certain spaces are excluded from floor area, such as cellar space used for mechanical equipment and floor space used for accessory off-street parking below a specified height.
+
+Floor area ratio (FAR) is the total floor area on a zoning lot divided by the lot area of that zoning lot.
+For example, a zoning lot of 10,000 square feet with a maximum FAR of 2.0 may contain a building of up to 20,000 square feet of floor area.
+The maximum FAR permitted on a zoning lot is set by the zoning district in which the lot is located.
+
+A zoning lot is a tract of land, either unsubdivided or consisting of two or more contiguous lots of record, located within a single block, which is treated as a single unit for applying the zoning regulations.
+
+Lot coverage is that portion of a zoning lot which, when viewed directly from above, is covered by a building.
+Lot coverage is expressed as a percentage of the lot area.
+
+Open space is that part of a zoning lot, including courts or yards, which is open and unobstructed from its lowest level to the sky and is accessible to and usable by all persons occupying the building.
+
+An accessory use is a use that is conducted on the same zoning lot as the principal use to which it is related, and that is clearly incidental to and customarily found in connection with that principal use.
+
+A non-conforming use is any lawful use, whether of a building or a tract of land, which does not conform to the use regulations of the district in which it is located, either on the effective date of the Resolution or as a result of a later amendment.
+
+A non-complying building is any lawful building which does not comply with one or more of the applicable bulk regulations, such as floor area, height and setback, yards, or open space, of the district in which it is located.
+
+A street wall is a wall or portion of a wall of a building facing a street.
+In contextual districts, the base height is the maximum height of the street wall before a required setback.

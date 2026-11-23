@@ -1,0 +1,23 @@
+# NYC Zoning Resolution - Article II (Residence District Regulations)
+# DEMO CORPUS: plain-language paraphrase for development. Replace with official text from zr.planning.nyc.gov.
+
+New York City has ten basic residence districts, numbered R1 through R10.
+The numbers generally indicate permitted density: R1 and R2 districts are low-density, detached single-family areas, while R10 districts permit the highest residential density in the city.
+
+R1 and R2 districts permit only single-family detached residences, along with certain community facilities.
+R3 through R5 districts are lower-density districts that permit a mix of detached, semi-detached, and attached houses and small apartment buildings, depending on the specific district.
+
+Medium- and high-density residence districts, R6 through R10, are typically mapped in the more densely built parts of the city.
+In these districts, buildings may be developed under the Quality Housing regulations, which produce buildings with street walls set at or near the street line and limited height.
+
+A letter suffix, such as A, B, D, or X, designates a contextual district.
+Contextual districts, such as R6A or R7A, set mandatory base heights and maximum building heights so that new buildings match the scale and form of the existing neighborhood.
+
+In R10 districts, the basic maximum residential floor area ratio is 10.0.
+Floor area bonuses, where available, can allow additional floor area above the basic maximum in certain high-density districts.
+
+Required yards apply in residence districts.
+A front yard is required in lower-density districts, and rear yards are generally required in all residence districts to provide light and air between buildings.
+
+Accessory off-street parking requirements for residences vary by district and location.
+The City of Yes for Housing Opportunity amendments adopted in 2024 eliminated or reduced parking requirements for new housing in many parts of the city.
